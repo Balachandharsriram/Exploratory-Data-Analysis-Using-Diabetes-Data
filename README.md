@@ -39,9 +39,6 @@ This notebook is rich in visual representation, making it easy to understand tre
 📝 How to Run
 1️⃣ Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Balachandharsriram/Exploratory-Data-Analysis-Using-Diabetes-Data
 
 2️⃣ Install the required libraries (preferably in a virtual environment):
@@ -65,7 +62,7 @@ data = pd.read_csv("diabetes.csv")
 # Basic summary
 print(data.describe())
 
-#❤️ Contributions
+❤️ Contributions
 If you find something interesting to add — a new visualization or a deeper insight — feel free to open a pull request!
 
 📬 Contact
