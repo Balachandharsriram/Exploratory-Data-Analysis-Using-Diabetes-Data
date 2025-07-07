@@ -42,23 +42,18 @@ This notebook is rich in visual representation, making it easy to understand tre
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Balachandharsriram/Exploratory-Data-Analysis-Using-Diabetes-Data
+
 2️⃣ Install the required libraries (preferably in a virtual environment):
 
-bash
-Copy
-Edit
 pip install pandas numpy matplotlib seaborn
+
 3️⃣ Open the notebook:
 
-bash
-Copy
-Edit
 jupyter notebook "Exploratory Data Analysis .ipynb"
 🚀 Sample Code Snippet
 python
-Copy
-Edit
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -69,7 +64,8 @@ data = pd.read_csv("diabetes.csv")
 
 # Basic summary
 print(data.describe())
-❤️ Contributions
+
+#❤️ Contributions
 If you find something interesting to add — a new visualization or a deeper insight — feel free to open a pull request!
 
 📬 Contact
